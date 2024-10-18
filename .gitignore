@@ -1,3 +1,5 @@
+# Jupyter notebook checkpoints
 .ipynb*
-.gitignore
+
+# Working file
 03*
