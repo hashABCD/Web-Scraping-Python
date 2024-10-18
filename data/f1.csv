@@ -1,0 +1,23 @@
+pos,f_name,l_name,abbr,dr_url,nationality,team_name,team_link,pts
+1,Max,Verstappen,VER,https://www.formula1.com/en/results/2024drivers/MAXVER01/max-verstappen,NED,Red Bull Racing Honda RBPT,https://www.formula1.com/en/results/2024team/Red-Bull-Racing-Honda-RBPT,331
+2,Lando,Norris,NOR,https://www.formula1.com/en/results/2024drivers/LANNOR01/lando-norris,GBR,McLaren Mercedes,https://www.formula1.com/en/results/2024team/McLaren-Mercedes,279
+3,Charles,Leclerc,LEC,https://www.formula1.com/en/results/2024drivers/CHALEC01/charles-leclerc,MON,Ferrari,https://www.formula1.com/en/results/2024team/Ferrari,245
+4,Oscar,Piastri,PIA,https://www.formula1.com/en/results/2024drivers/OSCPIA01/oscar-piastri,AUS,McLaren Mercedes,https://www.formula1.com/en/results/2024team/McLaren-Mercedes,237
+5,Carlos,Sainz,SAI,https://www.formula1.com/en/results/2024drivers/CARSAI01/carlos-sainz,ESP,Ferrari,https://www.formula1.com/en/results/2024team/Ferrari,190
+6,Lewis,Hamilton,HAM,https://www.formula1.com/en/results/2024drivers/LEWHAM01/lewis-hamilton,GBR,Mercedes,https://www.formula1.com/en/results/2024team/Mercedes,174
+7,George,Russell,RUS,https://www.formula1.com/en/results/2024drivers/GEORUS01/george-russell,GBR,Mercedes,https://www.formula1.com/en/results/2024team/Mercedes,155
+8,Sergio,Perez,PER,https://www.formula1.com/en/results/2024drivers/SERPER01/sergio-perez,MEX,Red Bull Racing Honda RBPT,https://www.formula1.com/en/results/2024team/Red-Bull-Racing-Honda-RBPT,144
+9,Fernando,Alonso,ALO,https://www.formula1.com/en/results/2024drivers/FERALO01/fernando-alonso,ESP,Aston Martin Aramco Mercedes,https://www.formula1.com/en/results/2024team/Aston-Martin-Aramco-Mercedes,62
+10,Nico,Hulkenberg,HUL,https://www.formula1.com/en/results/2024drivers/NICHUL01/nico-hulkenberg,GER,Haas Ferrari,https://www.formula1.com/en/results/2024team/Haas-Ferrari,24
+11,Lance,Stroll,STR,https://www.formula1.com/en/results/2024drivers/LANSTR01/lance-stroll,CAN,Aston Martin Aramco Mercedes,https://www.formula1.com/en/results/2024team/Aston-Martin-Aramco-Mercedes,24
+12,Yuki,Tsunoda,TSU,https://www.formula1.com/en/results/2024drivers/YUKTSU01/yuki-tsunoda,JPN,RB Honda RBPT,https://www.formula1.com/en/results/2024team/RB-Honda-RBPT,22
+13,Alexander,Albon,ALB,https://www.formula1.com/en/results/2024drivers/ALEALB01/alexander-albon,THA,Williams Mercedes,https://www.formula1.com/en/results/2024team/Williams-Mercedes,12
+14,Daniel,Ricciardo,RIC,https://www.formula1.com/en/results/2024drivers/DANRIC01/daniel-ricciardo,AUS,RB Honda RBPT,https://www.formula1.com/en/results/2024team/RB-Honda-RBPT,12
+15,Pierre,Gasly,GAS,https://www.formula1.com/en/results/2024drivers/PIEGAS01/pierre-gasly,FRA,Alpine Renault,https://www.formula1.com/en/results/2024team/Alpine-Renault,8
+16,Oliver,Bearman,BEA,https://www.formula1.com/en/results/2024drivers/OLIBEA01/oliver-bearman,GBR,Haas Ferrari,https://www.formula1.com/en/results/2024team/Haas-Ferrari,7
+17,Kevin,Magnussen,MAG,https://www.formula1.com/en/results/2024drivers/KEVMAG01/kevin-magnussen,DEN,Haas Ferrari,https://www.formula1.com/en/results/2024team/Haas-Ferrari,6
+18,Esteban,Ocon,OCO,https://www.formula1.com/en/results/2024drivers/ESTOCO01/esteban-ocon,FRA,Alpine Renault,https://www.formula1.com/en/results/2024team/Alpine-Renault,5
+19,Franco,Colapinto,COL,https://www.formula1.com/en/results/2024drivers/FRACOL01/franco-colapinto,ARG,Williams Mercedes,https://www.formula1.com/en/results/2024team/Williams-Mercedes,4
+20,Zhou,Guanyu,ZHO,https://www.formula1.com/en/results/2024drivers/GUAZHO01/guanyu-zhou,CHN,Kick Sauber Ferrari,https://www.formula1.com/en/results/2024team/Kick-Sauber-Ferrari,0
+21,Logan,Sargeant,SAR,https://www.formula1.com/en/results/2024drivers/LOGSAR01/logan-sargeant,USA,Williams Mercedes,https://www.formula1.com/en/results/2024team/Williams-Mercedes,0
+22,Valtteri,Bottas,BOT,https://www.formula1.com/en/results/2024drivers/VALBOT01/valtteri-bottas,FIN,Kick Sauber Ferrari,https://www.formula1.com/en/results/2024team/Kick-Sauber-Ferrari,0
