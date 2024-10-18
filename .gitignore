@@ -1,5 +1,11 @@
 # Jupyter notebook checkpoints
 .ipynb*
 
+# Venv
+.venv
+
 # Working file
 03*
+
+# Environment variables and secrets
+Env/
